@@ -1,3 +1,3 @@
-# Changelog for euler-project
+# Changelog for project-euler
 
 ## Unreleased changes
